@@ -1,5 +1,5 @@
 {
-    "name": "statikbe/laravel-nova-chained-translation-manager",
+    "name": "twister/laravel-nova-translation-manager",
     "description": "The Laravel Nova Chained Translation Manager allows you to easily edit and customise the translations of your current Laravel environment.",
     "keywords": [
         "laravel",
